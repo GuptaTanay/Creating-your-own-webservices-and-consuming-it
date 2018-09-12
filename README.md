@@ -21,7 +21,7 @@ For creating your own web-service, fllow the below mentioned steps:-<br>
 <h2> Files and functioning</h2>
 1.a.  <u><b>JAVA files:-</b></u><br>
 1. <b>MainActivity.java</b> :- It contains 2 buttons which help the application to view or save data in the database.<br>
-2. <b>AddRecords.java<b/> :- This java class helps the project to save data on the server using the 
+2. <b>AddRecords.java</b> :- This java class helps the project to save data on the server using the 
    ``` URL class and URLConnection classes``` <br>
 3.  <b>ViewRecords.java</b>:-  It populates the data recived from the database in the listview.<br>
 4.  <b>Validations.java</b>:- is used to validate the entered data in the EditText.<br>
